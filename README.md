@@ -1,2 +1,2 @@
-# machine_learning
-Machine learining projects and exercises
+# machine learning
+Machine learning projects and exercises
