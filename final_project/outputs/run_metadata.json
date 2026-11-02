@@ -1,0 +1,35 @@
+{
+  "seed": 42,
+  "max_train_samples": 20000,
+  "gap_samples": 60,
+  "features": [
+    "Temp",
+    "Voltage",
+    "Current"
+  ],
+  "target": "SOC",
+  "target_units": "fraction [0,1]",
+  "selected_model": "SVM (SVR)",
+  "selection_metric": "validation RMSE_pp",
+  "selected_parameters": {
+    "model__C": 10,
+    "model__gamma": "scale"
+  },
+  "candidate_fit_rows": 20000,
+  "final_fit_rows": 20000,
+  "test_metrics": {
+    "MAE_pp": 0.562200083841833,
+    "RMSE_pp": 1.2799568570136266,
+    "R2": 0.9751272258648152
+  },
+  "versions": {
+    "python": "3.14.4",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0"
+  }
+}

@@ -1,0 +1,8 @@
+,count
+raw_rows,144004
+nonfinite_rows,0
+physically_invalid_rows,0
+duplicate_identity_extras,0
+total_rejected_rows_union,0
+clean_rows,144004
+retained_repeated_observations,3

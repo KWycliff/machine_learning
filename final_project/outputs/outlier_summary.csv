@@ -1,0 +1,5 @@
+split,Temp_iqr_flag,Voltage_iqr_flag,Current_iqr_flag,unseen_outlier_group
+gap,0,13,0,0
+test,0,16,0,0
+train,1463,7362,0,0
+validation,1103,3333,0,0

@@ -1,0 +1,5 @@
+,source_file,repeated_observation_rows,rounded_repeats_4dp,adjacent_identical_predictors,longest_identical_predictor_run,adjacent_equal_Temp,adjacent_equal_Voltage,adjacent_equal_Current,adjacent_equal_SOC
+0,BSOC_n10_degrees.mat,0,2129,0,1,416,0,0,5612
+1,BSOC_0_degrees.mat,0,2165,0,1,881,0,0,5796
+2,BSOC_10_degrees.mat,0,2131,0,1,419,0,0,5616
+3,BSOC_25_degrees.mat,0,2834,0,1,1731,0,0,6966
